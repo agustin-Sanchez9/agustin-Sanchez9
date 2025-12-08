@@ -1,10 +1,10 @@
 Estudiante de ingenieria en sistemas de informacion en la Universidad Tecnologica Nacional, regional Delta (UTN-FRD)
 
-## Mis proyectos
+### Mis proyectos
 - En desarrollo: https://dados-mentirosos.onrender.com/
 - En desarrollo: QueMePongo
 - En desarrollo: Impostor
-
+### Contacto
 - 📫 agustinsanchezp123@gmail.com
 
 <!--
