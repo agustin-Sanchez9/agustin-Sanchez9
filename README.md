@@ -1,11 +1,9 @@
 Estudiante de ingenieria en sistemas de informacion en la Universidad Tecnologica Nacional, regional Delta (UTN-FRD)
 
-### Mis proyectos
-- En desarrollo: https://dados-mentirosos.onrender.com/
-- En desarrollo: QueMePongo
-- En desarrollo: Impostor
-### Contacto
-- 📫 agustinsanchezp123@gmail.com
+#### Mis proyectos
+- Dados mentirosos v1.0: https://dados-mentirosos.onrender.com/
+- Impostor: en desarrollo
+- QueMePongo: en desarrollo
 
 <!--
 **agustin-Sanchez9/agustin-Sanchez9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
