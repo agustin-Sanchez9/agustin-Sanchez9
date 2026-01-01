@@ -2,6 +2,7 @@ Estudiante de ingenieria en sistemas de informacion en la Universidad Tecnologic
 
 #### Mis proyectos
 - Dados mentirosos v1.0: https://dados-mentirosos.onrender.com/
+- Polymarket trading bot: En desarrollo
 - Impostor: en desarrollo
 - QueMePongo: en desarrollo
 
