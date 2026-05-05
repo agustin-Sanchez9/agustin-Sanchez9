@@ -2,7 +2,7 @@ Estudiante de ingenieria en sistemas de informacion en la Universidad Tecnologic
 
 #### Mis proyectos
 - Dados mentirosos v1.0: https://dados-mentirosos.onrender.com/
-- Impostor: en desarrollo
+- Gostman: en desarrollo
 - QueMePongo: en desarrollo
 
 <!--
