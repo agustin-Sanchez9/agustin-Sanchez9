@@ -1,8 +1,8 @@
 Estudiante de ingenieria en sistemas de informacion en la Universidad Tecnologica Nacional, regional Delta (UTN-FRD)
 
 #### Mis proyectos
-- Dados mentirosos v1.0: https://dados-mentirosos.onrender.com/
-- Gostman: en desarrollo
+- Dados mentirosos: https://dados-mentirosos.onrender.com/
+- Gostman: https://github.com/agustin-Sanchez9/gostman
 - QueMePongo: en desarrollo
 
 <!--
