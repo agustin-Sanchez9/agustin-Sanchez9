@@ -4,7 +4,7 @@ Desarrollador de software enfocado en backend, bases de datos, automatización y
 #### Mis proyectos
 - Dados mentirosos: Minijuego sobre engaño para jugar con amigos. https://dados-mentirosos.onrender.com/
 - Gostman: Cliente API simple para utilizar en la terminal. https://github.com/agustin-Sanchez9/gostman
-- QueMePongo: Recomendar vestimenta en base al clima. En desarrollo.
+- QueMePongo: Recomendar vestimenta inteligente en base al clima. https://quemepongo-frontend.vercel.app/
 - Scandalo: Herramienta de gestión de costos para locales gastronómicos. En desarrollo.
 
 <!--
